@@ -1,59 +1,33 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&color=0A0A0A&center=true&vCenter=true&width=720&lines=Arquitectura+digital+y+automatizaci%C3%B3n;Sistemas+web+preparados+para+la+era+IA;Pensamiento+escalable.+Dise%C3%B1o+limpio." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=21&pause=1200&color=0A0A0A&center=true&vCenter=true&width=700&lines=Arquitectura+web+y+automatizaci%C3%B3n;Sistemas+digitales+preparados+para+la+era+IA" />
 </p>
-
----
 
 <p align="center">
   <strong>Carles del Olmo</strong><br/>
-  Consultor digital especializado en arquitectura web, automatización de procesos y visibilidad en entornos impulsados por IA.
+  Consultor digital · Arquitectura web · Automatización · SEO/GEO
 </p>
 
 ---
 
-## 🧠 Enfoque
+## 🧠 En qué trabajo
 
-<table>
-<tr>
-<td>
-
-**Arquitectura Web**  
-Diseño de sistemas web escalables, mantenibles y orientados a rendimiento.
-
-</td>
-<td>
-
-**Automatización**  
-Optimización de procesos mediante flujos automatizados, integraciones y uso inteligente de IA.
-
-</td>
-<td>
-
-**SEO / GEO**  
-Estrategias de visibilidad tanto para buscadores tradicionales como para motores de respuesta basados en IA.
-
-</td>
-</tr>
-</table>
+- **Arquitectura web**: sistemas limpios, escalables y orientados a rendimiento  
+- **Automatización**: procesos de negocio con n8n, Power Automate e IA  
+- **SEO / GEO**: visibilidad en buscadores y motores de respuesta basados en IA  
 
 ---
 
-## 🛠 Stack técnico
+## 🛠 Stack principal
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 </p>
-
----
-
-## ⚙️ Herramientas y plataformas
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-A8201A?style=flat&logo=n8n&logoColor=white"/>
@@ -64,25 +38,22 @@ Estrategias de visibilidad tanto para buscadores tradicionales como para motores
 
 ---
 
-## 🚀 Dirección actual
+## 🚀 Ahora mismo
 
-- Construcción de una **consultora digital boutique**
-- Desarrollo de **webs nativas para IA**
-- Automatización como parte de la infraestructura, no como parche
-- Menos herramientas, **mejores sistemas**
+- Construyendo una **consultora digital boutique**
+- Webs y sistemas **nativos para IA**
+- Automatización como infraestructura, no como parche
 
 ---
 
-## 🌐 Enlaces
+## 🌐 Contacto
 
 <p align="center">
-  <a href="https://delol.es">Web</a> ·
-  <a href="https://www.linkedin.com/">LinkedIn</a> ·
-  <a href="mailto:contact@delol.es">Email</a>
+  <a href="https://www.carlesdelolmo.com">Web</a> ·
+  <a href="https://www.linkedin.com/in/delolmocarles/">LinkedIn</a> ·
+  <a href="mailto:hola@carlesdelolmo.com">Email</a>
 </p>
 
----
-
 <p align="center">
-  <sub>Los sistemas bien diseñados escalan. Los excelentes piensan antes.</sub>
+  <sub>Diseñar bien primero. Escalar después.</sub>
 </p>
